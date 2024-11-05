@@ -10,8 +10,7 @@ remote_theme: jekyll/minima
 
 include:
   - _pages
-  - _tutorials
-
+  
 # Theme settings
 header_pages:
   - _pages/tutorials.md
