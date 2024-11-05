@@ -7,3 +7,7 @@ description: "Quick links to business resources and tutorials."
 
 # Build settings
 remote_theme: jekyll/minima
+
+# Theme settings
+header_pages:
+  - tutorials.md
