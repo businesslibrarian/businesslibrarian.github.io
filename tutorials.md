@@ -1,9 +1,9 @@
 ---
 layout: default
 # Blog | Simple Jekyll
-header: Blog
-summary: Where the magic happens - this is the blog!
-link: /blog/
+header: Tutorials
+summary: A list of tutorials for business resources.
+link: /tutorials/
 ---
 
 {% for post in site.posts %}
