@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Set Up a Hennepin County Library Card
-summary: How to set up a library card at the Hennepin County Library
+description: Use your public library card to set up a library card at the Hennepin County Library.
 link: /hennepin-card/
 ---
 # Set Up a Hennepin County Library Card

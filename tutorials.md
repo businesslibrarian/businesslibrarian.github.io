@@ -7,7 +7,11 @@ link: /tutorials/
 ---
 
 {% for post in site.posts %}
+  <section>
   <p><a href="{{ post.url }}">{{ post.title }}</a><br>
+  <br>
   {{ post.description }}<br>
+  <br>
   {{ post.date | date_to_string }}</p>
+  </section>
 {% endfor %}
