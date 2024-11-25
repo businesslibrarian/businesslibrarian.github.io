@@ -1,7 +1,8 @@
 ---
 layout: post
 title: How to Set Up a Capital IQ Account
-description: Use your UMD account to set up access to Capital IQ. 
+header: Tutorials
+summary: Use your UMD account to set up access to Capital IQ. 
 link: /capital-iq/
 ---
 # How to Set Up a Capital IQ Account

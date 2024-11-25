@@ -1,14 +1,15 @@
 ---
 layout: post
 title: Set Up a Hennepin County Library Card
-description: Use your public library card to set up a library card at the Hennepin County Library.
+header: Tutorials
+summary: Use your public library card to set up a library card at the Hennepin County Library.
 link: /hennepin-card/
 ---
 # Set Up a Hennepin County Library Card
 
 1. Make sure you have either a card from the Arrowhead Library System or a card from the Duluth Public Library. (Other Minnesota library cards will work as well — these are just the public library systems local to UMD.)
 
-2. Visit [the Hennepin Count Library site](https://www.hclib.org/en/about/library-cards).
+2. Visit [the Hennepin County Library site](https://www.hclib.org/en/about/library-cards).
 
 3. Under "Minnesota residents (outside of Hennepin County)" click "Ask Us" and chat with Hennepin County Library staff. They'll be happy to help you set up a card!
 
